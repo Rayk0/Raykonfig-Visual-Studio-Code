@@ -1,0 +1,35 @@
+{
+    "editor.matchBrackets": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.smoothScrolling": true,
+    "workbench.colorCustomizations": {
+        "editorError.foreground": "#ffcb6b", // squiggly line
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "explorer.compactFolders": false,
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "workbench.sideBar.location": "left",
+    "workbench.editor.tabCloseButton": "left",
+    "breadcrumbs.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "workbench.activityBar.visible": true,
+    "vscode_custom_css.policy": true,
+    "vscode_custom_css.imports": [
+        ""
+    ],
+    "workbench.colorTheme": "1mm - Dracula",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 16,
+    "editor.fontLigatures": false,
+    "editor.cursorStyle": "block",
+    "workbench.iconTheme": "vscode-great-icons",
+}
