@@ -19,7 +19,8 @@ Somehow, I also like to use [Helium icons](https://marketplace.visualstudio.com/
 ## Settings
 Here is the JSON Version of my settings, if you ever feel to copy them. You can also find them in the repository.
 
-```{
+```
+{
     "editor.matchBrackets": false,
     "editor.cursorSmoothCaretAnimation": true,
     "editor.smoothScrolling": true,
