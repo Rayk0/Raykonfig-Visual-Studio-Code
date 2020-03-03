@@ -19,7 +19,7 @@ Somehow, I also like to use [Helium icons](https://marketplace.visualstudio.com/
 ## Settings
 Here is the JSON Version of my settings, if you ever feel to copy them. You can also find them in the repository.
 
-`{
+```{
     "editor.matchBrackets": false,
     "editor.cursorSmoothCaretAnimation": true,
     "editor.smoothScrolling": true,
@@ -53,7 +53,8 @@ Here is the JSON Version of my settings, if you ever feel to copy them. You can 
     "editor.fontLigatures": false,
     "editor.cursorStyle": "block",
     "workbench.iconTheme": "vscode-great-icons",
-}`
+}
+```
 My favorite setting in Visual Studio Code is the cursor smooth caret animation. It feels really cool to code with it. I also enabled a few settings and disabled somes that for my personal usage were annoying. I'm actually looking for a vscode extension that could help me change the position of the tabs, so that they're not at the top anymore.
 
 ## Extensions
