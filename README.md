@@ -60,7 +60,8 @@ My favorite setting in Visual Studio Code is the cursor smooth caret animation. 
 Visual Studio Code offers a large variety of extensions, and here are the ones I use :
 - [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) | Allows you to jump to some words in your code easily.
 - [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar) | Adds a shortcut for your left bar in the activity bar.
-- [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax) | Gives a better look to your theme when coding in C++.
+- [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax) | Gives a better look to your theme when using C++.
+
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Allows you to create sessions and code with someone else on the same PC. This is really useful when working with someone else on the same file.
 
 All of the other extensions that I have are related to themes or programming languages.
