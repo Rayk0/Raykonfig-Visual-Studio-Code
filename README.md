@@ -17,7 +17,7 @@ When I'm using the 1mm Dracula Theme, I like to use [VSCode Great Icons](https:/
 Somehow, I also like to use [Helium icons](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) which offer more colorful icons.
 
 ## Settings
-Here is the JSON Version of my settings, if you ever feel to copy them. You can also find them in the repository.
+Here is the JSON Version of my settings, if you want to use them. You can also find them in the repository.
 
 ```
 {
