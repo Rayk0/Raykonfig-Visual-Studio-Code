@@ -1,35 +1,45 @@
 {
-    "editor.matchBrackets": false,
-    "editor.cursorSmoothCaretAnimation": true,
-    "editor.smoothScrolling": true,
-    "workbench.colorCustomizations": {
-        "editorError.foreground": "#ffcb6b", // squiggly line
-    },
-    "workbench.startupEditor": "newUntitledFile",
-    "[c]": {
-        "editor.defaultFormatter": "ms-vscode.cpptools"
-    },
-    "explorer.compactFolders": false,
-    "window.zoomLevel": 0,
-    "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
-    "[cpp]": {
-        "editor.defaultFormatter": "ms-vscode.cpptools"
-    },
-    "workbench.sideBar.location": "left",
     "workbench.editor.tabCloseButton": "left",
-    "breadcrumbs.enabled": false,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false,
-    "workbench.activityBar.visible": true,
-    "vscode_custom_css.policy": true,
-    "vscode_custom_css.imports": [
-        ""
-    ],
-    "workbench.colorTheme": "1mm - Dracula",
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 13,
-    "editor.lineHeight": 16,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "extensions.ignoreRecommendations": false,
+    "terminal.integrated.fontSize": 14,
+    "python.showStartPage": false,
+    "workbench.iconTheme": "nonicons",
+    "workbench.startupEditor": "newUntitledFile",
     "editor.fontLigatures": false,
-    "editor.cursorStyle": "block",
-    "workbench.iconTheme": "vscode-great-icons",
+    "editor.minimap.scale": 2,
+    "liveshare.authenticationProvider": "Microsoft",
+    "editor.minimap.enabled": false,
+    "editor.fontWeight": "normal",
+    "explorer.confirmDelete": false,
+    "editor.cursorSurroundingLines": 8,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "trailing",
+    "emptyIndent.removeIndent": false,
+    "emptyIndent.highlightIndent": true,
+    "window.menuBarVisibility": "toggle",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.wrapTabs": true,
+    "editor.fontFamily": "'JetBrains Mono', 'SF Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.smoothScrolling": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.folding": true,
+    //gutter
+    "editor.glyphMargin": true,
+    "editor.lightbulb.enabled": false,
+    "editor.renderIndentGuides": true,
+    //custom
+    "customizeUI.font.monospace": "Office Code Pro",
+    "customizeUI.fontSizeMap": {
+      "13px": "13px",
+      "monospace": "13px"
+    },
+    "editor.fontSize": 14,
+    "customizeUI.titleBar": "inline",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "helium-icon-theme.showWelcomeMessage": false,
+    "window.titleBarStyle": "native"
 }
